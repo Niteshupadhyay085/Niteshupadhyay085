@@ -1,6 +1,9 @@
 Hi, I’m Nitesh Ratna Upadhyay
+
 👨‍💻 I’m a passionate and skilled Full Stack Developer with a solid foundation in both frontend and backend technologies
+
 📍 Based in Noida, Sector-62
+
 🔍 Actively seeking opportunities as a Frontend or Backend Developer to contribute to innovative and scalable projects
 🎓 Completed Full Stack Developer training at QSpiders, Noida, with hands-on experience in React.js, Node.js, and Spring Boot
 💼 Currently working as a Support Engineer at CMS IT Services Pvt. Ltd., gaining expertise in IT operations, incident management, and client support systems
